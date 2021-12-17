@@ -1,0 +1,8 @@
+/.idea/
+/.preprocessing/my_data/01_train/GermaNER-nofb-09-09-2015.jar
+/.sequence_tagging_transfer/corpora/
+/.sequence_tagging_transfer/embeddings/
+/.sequence_tagging_transfer/model_benikova/
+!/.sequence_tagging_transfer/mode_benikova/config
+/.sequence_tagging_transfer/model_my_data/
+!/.sequence_tagging_transfer/mode_my_data/config
